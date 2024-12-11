@@ -1,4 +1,5 @@
 # sentinelCorp
+Gemaakt door Joshua Hall en Jurrean De Nys
 
 Dit computer vision model gebruikt sentinel-2 sateliet foto's van [copernicus.eu](https://browser.dataspace.copernicus.eu).
 Deze zijn onder andere de True Color en NVDI score. We gebruiken ook een model van Huggingface 🤗 om woonzones te
